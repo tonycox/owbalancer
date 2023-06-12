@@ -1,9 +1,12 @@
 # owbalancer
 
 You can try balancer on Github Pages: [Tournament Balancer](https://atravkovs.github.io/balancer/).
+Or: [Tournament Balancer](https://balancer.anakq.dev).
 
 ## Project setup
 ```
+nvm install lts/fermium
+cargo install wasm-pack
 npm install
 ```
 
